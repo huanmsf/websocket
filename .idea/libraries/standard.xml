@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="standard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/tomcat7-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
